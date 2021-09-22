@@ -1,5 +1,5 @@
-# Project Title
-Spotify Clone
+# Spotify Clone
+
 
 ## Description
 A Kotlin MVVM android mobile application Spotify clone that uses firebase
